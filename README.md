@@ -36,7 +36,7 @@ The task is to write a Java program which reads the file, calculates the min, me
 Submit your implementation by Jan 31 2024 and become part of the leaderboard!
 
 ## Results
-
+ 
 These are the results from running all entries into the challenge on eight cores of a [Hetzner AX161](https://www.hetzner.com/dedicated-rootserver/ax161) dedicated server (32 core AMD EPYC™ 7502P (Zen2), 128 GB RAM).
 
 | # | Result (m:s.ms) | Implementation     | JDK | Submitter     | Notes     |
